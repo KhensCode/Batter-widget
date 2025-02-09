@@ -1,0 +1,105 @@
+
+body{
+    height:100vh;
+    align-content: center;
+    justify-items: center;
+    font-family: "Ubuntu", serif;
+    background: #F5F5F5;
+      font-style: normal;
+}
+.container{
+    background: #131213;
+    box-shadow: -12px 30px rgba(215, 215, 216, 0.5);
+justify-content: center;
+align-items: center;
+    color:#F6F5F4F5;
+    flex-direction: column;
+    
+    width:18rem;
+    outline:1px solid rgba(209, 206, 206, 0.322);
+    height: max-content;
+  display:flex;
+  border-radius: 5rem;
+  padding: 15px;
+   
+}
+.header{
+    display: flex;
+   font-size: 2em;
+   font-weight: bold;
+   
+}
+.bx.bxs-zap{
+    transform: translateY(30px);
+  margin-left: -12px;
+  text-shadow: 1px 3px rgba(215, 215, 216, 0.5);
+    font-size: 50px; 
+    color: #B08AF5;
+    background: linear-gradient(45deg, purple, pink);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    position: relative;
+  }
+  
+
+.bars{
+    display:flex;
+    background: #332845;
+   width:120%;
+   align-items: center;
+   justify-content: center;
+   height: 6rem;
+   outline:1px solid rgba(209, 206, 206, 0.322);
+   border-radius: 1.3rem;
+    padding: 12px;
+}
+.bar5{
+    background:#261F31;
+    height:6em;
+    border-radius: 11px;
+    width:38px;
+    
+}
+.bar1{
+    background:#B288FD;
+    height:6em;
+    
+    border-radius: 11px;
+    width:38px;
+
+
+}
+.fourth{
+    background: #C561F8;
+    height:3em;
+margin-top:3em;
+    border-radius: 11px;
+    width:38px;
+
+
+}
+.bar4{
+    background:#261F31;
+    height:6em;
+    border-radius: 11px;
+    width:38px;
+
+}
+.bar2{
+    background:#B288FD;
+    height:6em;
+    border-radius: 11px;
+    width:38px;
+}
+.border{
+   border:1px solid #432C7A;
+   border-radius: 1.2em;
+    width:12em;
+    display:flex;
+    gap:5px;
+}
+
+.hours{
+    color:#5A5A5B;
+    font-size: 1.5em;
+}
