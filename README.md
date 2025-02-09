@@ -18,8 +18,8 @@ This is a simple battery widget built with HTML, CSS, and JavaScript. It visuall
 1. Clone the repository.
 2. Open `index.html` in your browser to view the battery widget.
 
-##Link
-{https://codepen.io/KhensCode/pen/yyLBoBb}
+## Link
+{ https://codepen.io/KhensCode/pen/yyLBoBb }
 ## Usage
 - Integrate the widget into your web application to display battery information.
 - Customize the CSS to match your application's theme.
